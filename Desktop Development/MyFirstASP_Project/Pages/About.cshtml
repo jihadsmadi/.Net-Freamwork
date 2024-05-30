@@ -1,0 +1,29 @@
+﻿@page
+@model MyFirstASP_Project.Pages.AboutModel
+
+
+<h1>@Properties.Resources.PageTitle</h1>
+<br />
+
+<table class="table table-dark table-striped">
+	<thead>
+		<tr>
+			<td>ID</td>
+			<td>Name</td>
+			<td>Phone</td>
+			<td>Salary</td>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var Emp in Model.ReturnEmployees())
+		{
+			<tr>
+				<td>@Emp.ID</td>
+				<td>@Emp.Name</td>
+				<td>@Emp.Phone</td>
+				<td>@Emp.Salary</td>
+			</tr>
+		}
+	</tbody>
+
+</table>

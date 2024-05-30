@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.AssemblyInfo.cs
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.RazorAssemblyInfo.cache
+C:\Users\USER\source\repos\MyFirstASP_Project\obj\Debug\netcoreapp3.1\MyFirstASP_Project.RazorAssemblyInfo.cs

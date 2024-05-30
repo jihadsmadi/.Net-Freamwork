@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.CoreCompileInputs.cache

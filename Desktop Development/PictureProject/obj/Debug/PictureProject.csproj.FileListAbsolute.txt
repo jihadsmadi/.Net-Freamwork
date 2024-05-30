@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\PictureProject\bin\Debug\PictureProject.exe.config
+C:\Users\USER\source\repos\PictureProject\bin\Debug\PictureProject.exe
+C:\Users\USER\source\repos\PictureProject\bin\Debug\PictureProject.pdb
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.Form1.resources
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.Properties.Resources.resources
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.exe
+C:\Users\USER\source\repos\PictureProject\obj\Debug\PictureProject.pdb

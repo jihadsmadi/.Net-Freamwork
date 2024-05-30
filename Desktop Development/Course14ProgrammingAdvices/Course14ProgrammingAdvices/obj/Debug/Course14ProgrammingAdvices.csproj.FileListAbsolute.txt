@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\bin\Debug\Course14ProgrammingAdvices.exe.config
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\bin\Debug\Course14ProgrammingAdvices.exe
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\bin\Debug\Course14ProgrammingAdvices.pdb
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\obj\Debug\Course14ProgrammingAdvices.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\obj\Debug\Course14ProgrammingAdvices.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\obj\Debug\Course14ProgrammingAdvices.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\obj\Debug\Course14ProgrammingAdvices.exe
+C:\Users\USER\source\repos\Course14ProgrammingAdvices\Course14ProgrammingAdvices\obj\Debug\Course14ProgrammingAdvices.pdb

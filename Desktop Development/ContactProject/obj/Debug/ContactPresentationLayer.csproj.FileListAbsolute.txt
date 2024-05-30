@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\ContactProject\bin\Debug\ContactProject.exe.config
+C:\Users\USER\source\repos\ContactProject\bin\Debug\ContactProject.exe
+C:\Users\USER\source\repos\ContactProject\bin\Debug\ContactProject.pdb
+C:\Users\USER\source\repos\ContactProject\obj\Debug\ContactPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ContactProject\obj\Debug\ContactPresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ContactProject\obj\Debug\ContactPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ContactProject\obj\Debug\ContactProject.exe
+C:\Users\USER\source\repos\ContactProject\obj\Debug\ContactProject.pdb

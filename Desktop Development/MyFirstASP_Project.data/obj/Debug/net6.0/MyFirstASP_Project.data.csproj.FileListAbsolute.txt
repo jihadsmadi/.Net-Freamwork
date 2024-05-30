@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.AssemblyInfo.cs
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyFirstASP_Project.data\bin\Debug\net6.0\MyFirstASP_Project.data.deps.json
+C:\Users\USER\source\repos\MyFirstASP_Project.data\bin\Debug\net6.0\MyFirstASP_Project.data.dll
+C:\Users\USER\source\repos\MyFirstASP_Project.data\bin\Debug\net6.0\MyFirstASP_Project.data.pdb
+C:\Users\USER\source\repos\MyFirstASP_Project.data\bin\Debug\net6.0\MyFirstASP_Project.core.dll
+C:\Users\USER\source\repos\MyFirstASP_Project.data\bin\Debug\net6.0\MyFirstASP_Project.core.pdb
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.csproj.CopyComplete
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.dll
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\refint\MyFirstASP_Project.data.dll
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\MyFirstASP_Project.data.pdb
+C:\Users\USER\source\repos\MyFirstASP_Project.data\obj\Debug\net6.0\ref\MyFirstASP_Project.data.dll

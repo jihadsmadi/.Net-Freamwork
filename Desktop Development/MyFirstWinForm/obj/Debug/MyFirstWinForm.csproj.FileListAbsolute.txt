@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+C:\Users\USER\source\repos\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+C:\Users\USER\source\repos\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.Form1.resources
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+C:\Users\USER\source\repos\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb

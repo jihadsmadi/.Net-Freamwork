@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\MyFirstProjectWinForms\bin\Debug\MyFirstProjectWinForms.exe.config
+C:\Users\USER\source\repos\MyFirstProjectWinForms\bin\Debug\MyFirstProjectWinForms.exe
+C:\Users\USER\source\repos\MyFirstProjectWinForms\bin\Debug\MyFirstProjectWinForms.pdb
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.Properties.Resources.resources
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.exe
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.pdb
+C:\Users\USER\source\repos\MyFirstProjectWinForms\obj\Debug\MyFirstProjectWinForms.PizzaForm.resources
