@@ -1,0 +1,4 @@
+10|subhi|Smadi|Damascus|963-09552-64373|Subhi@gmail.com|Fothea|Hosni|6/10/1964 12:10:59 PM|User5|12345678|25|False
+1|jihad|smadi|Syria-Damascus|963-09377-93120|JIhad@gmail.com|Bana|Sobhi|1/1/2002 12:10:59 PM|user1|12341234|-1|False
+3|Abdallah|Smadi|Syria-Damascus|   -     -|Abdallah@gmail.com|Bana|Sobhi|10/10/2023 12:10:59 PM|User2|12345678|6|False
+100|Mohammed|Abu-Hadhod|Jordan|   -     -|Mohammud@gmail.com|afdaf|afsd|10/10/2000 12:10:59 PM|User7|12341234|-1|False

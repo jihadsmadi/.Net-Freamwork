@@ -1,0 +1,10 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.deps.json
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfoInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfo.cs
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.pdb

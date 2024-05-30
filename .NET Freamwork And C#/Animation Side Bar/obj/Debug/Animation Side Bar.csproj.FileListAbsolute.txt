@@ -1,0 +1,11 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\bin\Debug\Animation Side Bar.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\bin\Debug\Animation Side Bar.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\bin\Debug\Animation Side Bar.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation_Side_Bar.Form1.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation_Side_Bar.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Animation Side Bar\obj\Debug\Animation Side Bar.pdb

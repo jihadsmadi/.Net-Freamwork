@@ -1,0 +1,13 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\Calculator\Calculator\obj\Debug\Calculator.pdb
