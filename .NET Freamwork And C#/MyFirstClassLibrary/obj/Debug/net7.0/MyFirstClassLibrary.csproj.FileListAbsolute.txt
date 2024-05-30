@@ -1,0 +1,12 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\bin\Debug\net7.0\MyFirstClassLibrary.deps.json
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\bin\Debug\net7.0\MyFirstClassLibrary.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\bin\Debug\net7.0\MyFirstClassLibrary.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.AssemblyInfoInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.AssemblyInfo.cs
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\refint\MyFirstClassLibrary.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\MyFirstClassLibrary.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibrary\obj\Debug\net7.0\ref\MyFirstClassLibrary.dll

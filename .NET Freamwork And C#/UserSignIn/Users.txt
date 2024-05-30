@@ -1,0 +1,5 @@
+
+User1|12345678|Male|User1@gmail.com|0999999999
+
+User2|12345678|Female|User2@gamil.com|0999999999
+

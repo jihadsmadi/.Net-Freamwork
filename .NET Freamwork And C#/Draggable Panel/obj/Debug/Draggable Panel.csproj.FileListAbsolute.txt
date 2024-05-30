@@ -1,0 +1,11 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\bin\Debug\Draggable Panel.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\bin\Debug\Draggable Panel.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\bin\Debug\Draggable Panel.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable_Panel.Form1.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable_Panel.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\Draggable Panel\obj\Debug\Draggable Panel.pdb

@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\bin\Debug\MyFirstClassLibraryProject.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\bin\Debug\MyFirstClassLibraryProject.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\bin\Debug\MyFirstClassLibraryProject.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\obj\Debug\MyFirstClassLibraryProject.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\obj\Debug\MyFirstClassLibraryProject.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\obj\Debug\MyFirstClassLibraryProject.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\obj\Debug\MyFirstClassLibraryProject.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\MyFirstClassLibraryProject\obj\Debug\MyFirstClassLibraryProject.pdb

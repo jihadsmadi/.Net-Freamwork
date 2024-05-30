@@ -1,0 +1,14 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\bin\Debug\ClassLibrary3.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\bin\Debug\ClassLibrary3.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\BankSystem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

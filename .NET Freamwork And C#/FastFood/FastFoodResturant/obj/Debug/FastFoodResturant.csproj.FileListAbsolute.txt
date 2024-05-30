@@ -1,0 +1,13 @@
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\bin\Debug\FastFoodResturant.exe.config
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\bin\Debug\FastFoodResturant.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\bin\Debug\FastFoodResturant.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.Form1.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.exe
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.pdb
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\bin\Debug\Guna.UI2.dll
+D:\Work Space\Programming\Programming Advice\.NET Freamwork And C#\FastFood\FastFoodResturant\obj\Debug\FastFoodResturant.csproj.CopyComplete
