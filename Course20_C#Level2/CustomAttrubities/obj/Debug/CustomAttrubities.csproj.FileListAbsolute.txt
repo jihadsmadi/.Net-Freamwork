@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\bin\Debug\CustomAttrubities.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\bin\Debug\CustomAttrubities.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\bin\Debug\CustomAttrubities.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\obj\Debug\CustomAttrubities.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\obj\Debug\CustomAttrubities.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\obj\Debug\CustomAttrubities.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\obj\Debug\CustomAttrubities.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\CustomAttrubities\obj\Debug\CustomAttrubities.pdb

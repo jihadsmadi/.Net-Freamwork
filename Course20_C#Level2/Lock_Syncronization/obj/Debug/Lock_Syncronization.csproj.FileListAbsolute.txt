@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\bin\Debug\Lock_Syncronization.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\bin\Debug\Lock_Syncronization.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\bin\Debug\Lock_Syncronization.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\obj\Debug\Lock_Syncronization.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\obj\Debug\Lock_Syncronization.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\obj\Debug\Lock_Syncronization.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\obj\Debug\Lock_Syncronization.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Lock_Syncronization\obj\Debug\Lock_Syncronization.pdb

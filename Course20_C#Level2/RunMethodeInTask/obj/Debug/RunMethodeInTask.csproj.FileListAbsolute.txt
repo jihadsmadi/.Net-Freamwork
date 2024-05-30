@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\obj\Debug\RunMethodeInTask.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\obj\Debug\RunMethodeInTask.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\obj\Debug\RunMethodeInTask.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\bin\Debug\RunMethodeInTask.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\bin\Debug\RunMethodeInTask.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\bin\Debug\RunMethodeInTask.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\obj\Debug\RunMethodeInTask.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\RunMethodeInTask\obj\Debug\RunMethodeInTask.pdb

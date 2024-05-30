@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\bin\Debug\EventLog.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\bin\Debug\EventLog.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\bin\Debug\EventLog.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\obj\Debug\EventLog.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\obj\Debug\EventLog.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\EventLog\obj\Debug\EventLog.pdb

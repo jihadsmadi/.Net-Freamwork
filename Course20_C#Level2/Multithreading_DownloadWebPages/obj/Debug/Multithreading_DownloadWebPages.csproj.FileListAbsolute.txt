@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\bin\Debug\Multithreading_DownloadWebPages.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\bin\Debug\Multithreading_DownloadWebPages.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\bin\Debug\Multithreading_DownloadWebPages.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\obj\Debug\Multithreading_DownloadWebPages.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\obj\Debug\Multithreading_DownloadWebPages.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\obj\Debug\Multithreading_DownloadWebPages.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\obj\Debug\Multithreading_DownloadWebPages.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Multithreading_DownloadWebPages\obj\Debug\Multithreading_DownloadWebPages.pdb

@@ -1,0 +1,12 @@
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\bin\Debug\Events_Course20.exe.config
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\bin\Debug\Events_Course20.exe
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\bin\Debug\Events_Course20.pdb
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.Form1.resources
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.Properties.Resources.resources
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.uctlCalculater.resources
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.csproj.GenerateResource.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.exe
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Events_Course20\obj\Debug\Events_Course20.pdb

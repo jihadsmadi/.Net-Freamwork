@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\bin\Debug\Hashing_Typography.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\bin\Debug\Hashing_Typography.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\bin\Debug\Hashing_Typography.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\obj\Debug\Hashing_Typography.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\obj\Debug\Hashing_Typography.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\obj\Debug\Hashing_Typography.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\obj\Debug\Hashing_Typography.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Hashing_Typography\obj\Debug\Hashing_Typography.pdb

@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\obj\Debug\Asynchronus_programming.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\obj\Debug\Asynchronus_programming.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\obj\Debug\Asynchronus_programming.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\bin\Debug\Asynchronus_programming.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\bin\Debug\Asynchronus_programming.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\bin\Debug\Asynchronus_programming.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\obj\Debug\Asynchronus_programming.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Asynchronus_programming\obj\Debug\Asynchronus_programming.pdb

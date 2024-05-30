@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\bin\Debug\Registry.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\bin\Debug\Registry.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\bin\Debug\Registry.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\obj\Debug\Registry.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\obj\Debug\Registry.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\obj\Debug\Registry.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\obj\Debug\Registry.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Registry\obj\Debug\Registry.pdb

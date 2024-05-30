@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\bin\Debug\StringBuilder.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\obj\Debug\StringBuilder.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\StringBuilder\obj\Debug\StringBuilder.pdb

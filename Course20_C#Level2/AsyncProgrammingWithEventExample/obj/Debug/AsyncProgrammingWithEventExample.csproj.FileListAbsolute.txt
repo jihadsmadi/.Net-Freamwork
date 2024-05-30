@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\bin\Debug\AsyncProgrammingWithEventExample.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\bin\Debug\AsyncProgrammingWithEventExample.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\bin\Debug\AsyncProgrammingWithEventExample.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\obj\Debug\AsyncProgrammingWithEventExample.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\obj\Debug\AsyncProgrammingWithEventExample.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\obj\Debug\AsyncProgrammingWithEventExample.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\obj\Debug\AsyncProgrammingWithEventExample.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\AsyncProgrammingWithEventExample\obj\Debug\AsyncProgrammingWithEventExample.pdb

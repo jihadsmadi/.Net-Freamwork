@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\bin\Release\Attrubites.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\bin\Release\Attrubites.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\bin\Release\Attrubites.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\obj\Release\Attrubites.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\obj\Release\Attrubites.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\obj\Release\Attrubites.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\obj\Release\Attrubites.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Attrubites\obj\Release\Attrubites.pdb

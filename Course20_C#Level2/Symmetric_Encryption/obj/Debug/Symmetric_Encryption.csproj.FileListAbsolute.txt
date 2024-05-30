@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\bin\Debug\Symmetric_Encryption.exe.config
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\bin\Debug\Symmetric_Encryption.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\bin\Debug\Symmetric_Encryption.pdb
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\obj\Debug\Symmetric_Encryption.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\obj\Debug\Symmetric_Encryption.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\obj\Debug\Symmetric_Encryption.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\obj\Debug\Symmetric_Encryption.exe
+D:\Work Space\Programming\Programming Advice\Course20_C#Level2\Symmetric_Encryption\obj\Debug\Symmetric_Encryption.pdb
